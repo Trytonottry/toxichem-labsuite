@@ -1,7 +1,6 @@
 # 🧪 ToxiChem LabSuite — Platform for Organic Toxin Research
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Docker Build](https://img.shields.io/docker/cloud/build/toxichem/toxichem-labsuite)](https://hub.docker.com/r/toxichem/toxichem-labsuite)
 [![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen)](https://status.toxichem.org)
 [![Release](https://img.shields.io/github/v/release/toxichem/toxichem-labsuite?include_prereleases)](https://github.com/Trytonottry/toxichem-labsuite/releases)
 [![Documentation](https://img.shields.io/badge/Docs-GitBook-blue)](https://docs.toxichem.org)
