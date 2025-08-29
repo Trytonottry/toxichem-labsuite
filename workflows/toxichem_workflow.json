@@ -1,0 +1,17 @@
+{
+  "name": "ToxiChem Toxicity Screening",
+  "nodes": [
+    {
+      "type": "SMILES Input",
+      "api_call": "POST /toxins/"
+    },
+    {
+      "type": "Toxicity Prediction",
+      "api_call": "POST /predict/toxicity"
+    },
+    {
+      "type": "Pathway Analysis",
+      "api_call": "GET /pathways?smiles={smiles}"
+    }
+  ]
+}

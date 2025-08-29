@@ -1,0 +1,6 @@
+"scripts": {
+  "dev": "vite",
+  "build:web": "vite build",
+  "build:pwa": "vite build --mode pwa",
+  "build:electron": "vite build --mode electron"
+}
