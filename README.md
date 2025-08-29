@@ -5,7 +5,7 @@
 [![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen)](https://status.toxichem.org)
 [![Release](https://img.shields.io/github/v/release/toxichem/toxichem-labsuite?include_prereleases)](https://github.com/Trytonottry/toxichem-labsuite/releases)
 [![Documentation](https://img.shields.io/badge/Docs-GitBook-blue)](https://docs.toxichem.org)
-![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)]
+![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)
 [![Type Checked: Mypy](https://img.shields.io/badge/type_checked-mypy-blue)](https://mypy-lang.org)
 [![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://pre-commit.com)
 
