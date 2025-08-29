@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen)](https://status.toxichem.org)
-[![Release](https://img.shields.io/github/v/release/toxichem/toxichem-labsuite?include_prereleases)](https://github.com/Trytonottry/toxichem-labsuite/releases/tag/science)
 [![Documentation](https://img.shields.io/badge/Docs-GitBook-blue)](https://docs.toxichem.org)
 ![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)
 [![Type Checked: Mypy](https://img.shields.io/badge/type_checked-mypy-blue)](https://mypy-lang.org)
