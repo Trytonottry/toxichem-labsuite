@@ -81,12 +81,12 @@ curl -OJ http://localhost:8000/report/1.pdf
 
 ## 🛠️ Technologies
 
-Backend - Python, FastAPI, RDKit, PostgreSQL (with RDKit), Celery
-Frontend - React, Three.js, Plotly, 3DMol.js
-Desktop - Electron, SQLite
-ML - Scikit-learn, DeepChem, GNN
-DevOps - Docker, Prometheus, Grafana, GitHub Actions
-Reporting - Jinja2, WeasyPrint, python-docx
+ - Backend - Python, FastAPI, RDKit, PostgreSQL (with RDKit), Celery
+ - Frontend - React, Three.js, Plotly, 3DMol.js
+ - Desktop - Electron, SQLite
+ - ML - Scikit-learn, DeepChem, GNN
+ - DevOps - Docker, Prometheus, Grafana, GitHub Actions
+ - Reporting - Jinja2, WeasyPrint, python-docx
 
 ## 📄 License 
 
